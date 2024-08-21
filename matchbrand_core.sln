@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{C34D4756-048B-478A-97AC-6F6A49B58134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserProfileService", "UserProfileService\UserProfileService.csproj", "{F65A76A9-1ED1-4640-A07D-92DCD953CD0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F65A76A9-1ED1-4640-A07D-92DCD953CD0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F65A76A9-1ED1-4640-A07D-92DCD953CD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F65A76A9-1ED1-4640-A07D-92DCD953CD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F65A76A9-1ED1-4640-A07D-92DCD953CD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F65A76A9-1ED1-4640-A07D-92DCD953CD0D} = {C34D4756-048B-478A-97AC-6F6A49B58134}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51BE3A1A-A94E-4E40-B892-E59312298AEC}
+	EndGlobalSection
+EndGlobal
